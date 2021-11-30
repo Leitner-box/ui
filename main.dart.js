@@ -77411,8 +77411,8 @@ $S:471}
 F.Je.prototype={
 H(a,b){return U.ape(new F.a21(),t.h8)}}
 F.a21.prototype={
-$3(a,b,c){var s=P.i(["/",new F.a20()],t.X,t.sy)
-return new S.oG(s,"/","Leitner Box",b.b?b.c:b.d,!1,null)},
+$3(a,b,c){var s=P.i(["/home",new F.a20()],t.X,t.sy)
+return new S.oG(s,"/home","Leitner Box",b.b?b.c:b.d,!1,null)},
 $C:"$3",
 $R:3,
 $S:472}
